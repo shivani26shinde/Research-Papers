@@ -14,6 +14,16 @@ Paper 2:
 
 An Evaluation of Community Detection Algorithms on Large-Scale Email Traffic.
 
+Description:
+
 In this paper, large-scale email networks are used to evaluate experimentally the qualitative performance of several community detection algorithms. A number of structural quality functions and a logical quality measure is used to compare the quality of the algorithms so as to separate ham and spam emails by clustering them into distinct communities.
 
 Result: The algorithm that performs link community detection is more suitable for clustering email networks than the node-based approaches, and it creates more distinct communities of ham and spam edges.
+
+Paper 3:
+
+Community detection algorithms: a comparative analysis
+
+Description:
+
+In this paper, there are three recent algorithms introduced by Rosvall and Bergstrom, Blondel et al. and Ronhovde and Nussinov, respectively, which have an excellent performance with the additional advantage of low computational complexity, which enables one to analyze large systems.
