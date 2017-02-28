@@ -35,3 +35,19 @@ Community Detection in Networks with Node Attributes
 Description:
 
 Community detection algorithms traditionally focus only on the network structure, while clustering algorithms mostly consider only node attributes. The authors of this paper, have developed Communities from Edge Structure and Node Attributes, an accurate and scalable algorithm for detecting overlapping communities in networks with node attributes. This algorithm models the interaction between the network structure and the node attributes, which leads to more accurate community detection, has a linear runtime in the network size and helps with the interpretation of detected communities by finding relevant node attributes for each community.
+
+Paper 5: 
+
+Homophily in Social Networks
+
+Description:
+
+The homophily principle structures network ties of every type, including marriage, friendship, work, advice, support, information transfer, exchange, comembership, and other types of relationship. Homophily limits people’s social worlds in a way that has powerful implications for the information they receive, the attitudes they form, and the interactions they experience.
+
+This paper discusses the following topics:
+
+(a) the basic ecological processes that link organizations, associations, cultural communities, social movements, and many other social forms 
+
+(b) the impact of multiplex ties on the patterns of homophily and 
+
+(c) the dynamics of network change over time through which networks and other social entities co-evolve
