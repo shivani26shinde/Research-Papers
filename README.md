@@ -27,3 +27,11 @@ Community detection algorithms: a comparative analysis
 Description:
 
 In this paper, there are three recent algorithms introduced by Rosvall and Bergstrom, Blondel et al. and Ronhovde and Nussinov, respectively, which have an excellent performance with the additional advantage of low computational complexity, which enables one to analyze large systems.
+
+Paper 4:
+
+Community Detection in Networks with Node Attributes
+
+Description:
+
+Community detection algorithms traditionally focus only on the network structure, while clustering algorithms mostly consider only node attributes. The authors of this paper have developed Communities from Edge Structure and Node Attributes, an accurate and scalable algorithm for detecting overlapping communities in networks with node attributes.
