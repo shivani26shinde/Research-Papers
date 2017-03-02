@@ -51,3 +51,11 @@ This paper discusses the following topics:
 (b) the impact of multiplex ties on the patterns of homophily and 
 
 (c) the dynamics of network change over time through which networks and other social entities co-evolve
+
+Paper 6:
+
+Small World Problem
+
+Description:
+
+Milgram's experiment developed out of a desire to learn more about the probability that two randomly selected people would know each other. Another view of the problem is to imagine the population as a social network and attempt to find the average path length between any two nodes. Milgram's experiment was designed to measure these path lengths by developing a procedure to count the number of ties between any two people.
