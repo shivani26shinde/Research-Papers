@@ -59,3 +59,11 @@ Small World Problem
 Description:
 
 Milgram's experiment developed out of a desire to learn more about the probability that two randomly selected people would know each other. Another view of the problem is to imagine the population as a social network and attempt to find the average path length between any two nodes. Milgram's experiment was designed to measure these path lengths by developing a procedure to count the number of ties between any two people.
+
+Paper 7:
+
+Weak Ties
+
+Description:
+
+The research in this paper talks about the importance of weak ties. In terms of connection with general society and staying in touch with what is going on in the wider world, the weak ties with our acquaintances are paradoxically much more important than the inwardly-focused conversations with our closer friends. The more weak ties we have, the more connected to the world we are and are more likely to receive important information about ideas, threats and opportunities in time to respond to them. Researchers have discovered that information about jobs that led to employment were more likely to come from the weak ties with acquaintances than from closer friends.
