@@ -67,3 +67,15 @@ Weak Ties
 Description:
 
 The research in this paper talks about the importance of weak ties. In terms of connection with general society and staying in touch with what is going on in the wider world, the weak ties with our acquaintances are paradoxically much more important than the inwardly-focused conversations with our closer friends. The more weak ties we have, the more connected to the world we are and are more likely to receive important information about ideas, threats and opportunities in time to respond to them. Researchers have discovered that information about jobs that led to employment were more likely to come from the weak ties with acquaintances than from closer friends.
+
+Paper 8:
+ 
+Key Players in Social Networks
+
+Description:
+
+The optimal selection of key players depends on the following two goals:
+
+1. KPP-POS - It is defined as the identification of key players for the purpose of optimally diffusing something through the network by using the key players as seeds.
+
+2. KPP-NEG - It is defined as the identification of key players for the purpose of disrupting or fragmenting the network by removing the key nodes.
