@@ -79,3 +79,7 @@ The optimal selection of key players depends on the following two goals:
 1. KPP-POS - It is defined as the identification of key players for the purpose of optimally diffusing something through the network by using the key players as seeds.
 
 2. KPP-NEG - It is defined as the identification of key players for the purpose of disrupting or fragmenting the network by removing the key nodes.
+
+Paper 9:
+
+Undirected Shortest Path
